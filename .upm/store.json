@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"73f2959492978c12874bc9e3adb6ca91","lockfileHash":"49da52e9e0e2163c459e2f0f81192d7f","guessedImports":["@sveltejs/adapter-auto","@sveltejs/kit","vite","@sveltejs/vite-plugin-svelte"],"guessedImportsHash":"468e69294f29636223a293a25134f20f"}}}
